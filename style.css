@@ -1,0 +1,36 @@
+body{
+    background-image: url(images/tesla-logo-11548789423kkgvnlysre.png);
+    background-repeat: no-repeat;
+    background-position: 58% 91%;
+    background-size: 30px;
+    background-attachment: scroll;
+    background-color: rgb(160, 160, 160)
+
+}
+.profilepic {
+    display: block;
+    width: 200px;
+    border-radius: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.socials {
+    width: 48px;
+    height: 48px;
+    margin-left: 400px;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font: 'Nimbus Mono L', monospace;
+    font-style: italic;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+div {
+    text-align: center;
+}
